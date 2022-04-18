@@ -17,6 +17,6 @@ Run `main` method in `main.cpp` file and verify that `output.txt` file is update
 
 ### To submit your solution just push your code to this repo 😎
 
-Detailed description of the task is [here](https://betterhire.me/tasks/CITIES/description)
+Detailed description of the task is [here](https://)
 
 Happy coding! 😉
