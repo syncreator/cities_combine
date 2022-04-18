@@ -1,4 +1,4 @@
-# Task topic:
+# Task content:
 
 It is necessary to make a sequence from the list of cities from file `input.txt`
 of in which each subsequent city must begin with the same letter that the 
